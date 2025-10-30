@@ -1,3 +1,4 @@
 env/
 Architectures/Resnet/data/
 Architectures/SENet/data/
+Architectures/CBAM/data/
