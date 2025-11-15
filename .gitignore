@@ -1,3 +1,5 @@
 env/
-Architectures/Resnet/data/
-Architectures/SENet/data/
+Data/
+Architectures/Resnet/model/
+Architectures/SENet/model/
+Architectures/CBAM/model/
